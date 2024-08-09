@@ -21,7 +21,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-blog-post-workflow.yml
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
