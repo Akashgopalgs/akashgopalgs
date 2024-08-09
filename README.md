@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashgopalgs" alt="akashgopalgs" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/akash_kvr" target="blank"><img src="https://img.shields.io/twitter/follow/akash_kvr?logo=twitter&style=for-the-badge" alt="akash_kvr" /></a> </p>
+
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://mavenanalytics.io/profile/Akash-Gopal-GS/200275024](https://mavenanalytics.io/profile/Akash-Gopal-GS/200275024)
+- 👨‍💻 All of my projects are available at [https://akashgopalgs.github.io](https://akashgopalgs.github.io)
 
 - 📝 I regularly write articles on [https://medium.com/@akashgopalgs](https://medium.com/@akashgopalgs)
 
@@ -23,8 +25,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/akash_kvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akash_kvr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akashgopalgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashgopalgs" height="30" width="40" /></a>
 <a href="https://kaggle.com/akashgopalgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akashgopalgs" height="30" width="40" /></a>
+<a href="https://instagram.com/akash__7___kvr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash__7___kvr/" height="30" width="40" /></a>
 <a href="https://medium.com/@akashgopalgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akashgopalgs" height="30" width="40" /></a>
 </p>
 
