@@ -14,7 +14,7 @@
 - 📝 I regularly write articles on [https://medium.com/@akashgopalgs](https://medium.com/@akashgopalgs)
 
 - 💬 Ask me about **I am a BSc Physics graduate and aspiring data scientist currently interning at Codeme Hub Int Pvt. I have strong analytical skills and am proficient in Python, machine learning, probability & statistics, Power BI, and Excel. My internship experience has honed my ability to work independently and as part of a team, demonstrating leadership and effective communication skills. I am eager to grow in data science.**
-
+ 
 - 📫 How to reach me **akashgsknr@gmail.com**
 
 - 📄 Know about my experiences [https://app.flowcv.com/resume/content](https://app.flowcv.com/resume/content)
