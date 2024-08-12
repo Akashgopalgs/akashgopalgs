@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://app.flowcv.com/resume/content](https://app.flowcv.com/resume/content)
 
-### Blogs posts
+### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [The Naive Bayes Algorithm: How It Works and Why It Matters](https://medium.com/@akashgopalgs/the-naive-bayes-algorithm-how-it-works-and-why-it-matters-061c5ce3e9ad?source=rss-f1f1ffa1c989------2)
 - [Understanding the K-Nearest Neighbors Algorithm: A Comprehensive Guide](https://medium.com/@akashgopalgs/understanding-the-k-nearest-neighbors-algorithm-a-comprehensive-guide-7f3264f0f866?source=rss-f1f1ffa1c989------2)
