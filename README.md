@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashgopalgs" alt="akashgopalgs" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/akash_kvr" target="blank"><img src="https://img.shields.io/twitter/follow/akash_kvr?logo=twitter&style=for-the-badge" alt="akash_kvr" /></a> </p>
-
+<img align="right" alt="Data SCience" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 - 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://akashgopalgs.github.io](https://akashgopalgs.github.io)
