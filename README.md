@@ -20,10 +20,10 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ensembling Techniques in Machine Learning](https://medium.com/@akashgopalgs/ensembling-techniques-in-machine-learning-d8b88135f2a3?source=rss-f1f1ffa1c989------2)
 - [The Naive Bayes Algorithm: How It Works and Why It Matters](https://medium.com/@akashgopalgs/the-naive-bayes-algorithm-how-it-works-and-why-it-matters-061c5ce3e9ad?source=rss-f1f1ffa1c989------2)
 - [Understanding the K-Nearest Neighbors Algorithm: A Comprehensive Guide](https://medium.com/@akashgopalgs/understanding-the-k-nearest-neighbors-algorithm-a-comprehensive-guide-7f3264f0f866?source=rss-f1f1ffa1c989------2)
 - [CART vs. ID3: Unraveling the Secrets of Decision Tree Algorithms](https://medium.com/@akashgopalgs/cart-vs-id3-unraveling-the-secrets-of-decision-tree-algorithms-de8fe1dacc52?source=rss-f1f1ffa1c989------2)
-- [Demystifying Stochastic Gradient Descent: A Key to Efficient Machine Learning](https://medium.com/@akashgopalgs/demystifying-stochastic-gradient-descent-a-key-to-efficient-machine-learning-8b444955d11d?source=rss-f1f1ffa1c989------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
