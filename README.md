@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/akash_kvr" target="blank"><img src="https://img.shields.io/twitter/follow/akash_kvr?logo=twitter&style=for-the-badge" alt="akash_kvr" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science** 
 
 - 👨‍💻 All of my projects are available at [https://akashgopalgs.github.io](https://akashgopalgs.github.io)
 
