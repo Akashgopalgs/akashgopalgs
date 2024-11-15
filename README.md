@@ -20,7 +20,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Artificial Neural Networks: A Beginner’s Guide](https://medium.com/@akashgopalgs/artificial-neural-networks-a-beginners-guide-bb7dfebca0b5?source=rss-f1f1ffa1c989------2)
+- [Neural Networks: A Beginner’s Guide](https://medium.com/@akashgopalgs/artificial-neural-networks-a-beginners-guide-bb7dfebca0b5?source=rss-f1f1ffa1c989------2)
 - [The 2024 Nobel Prize in Physics: Pioneers of Artificial Neural Networks](https://medium.com/@akashgopalgs/the-2024-nobel-prize-in-physics-pioneers-of-artificial-neural-networks-b6ecbd013e78?source=rss-f1f1ffa1c989------2)
 - [Ensembling Techniques in Machine Learning](https://medium.com/@akashgopalgs/ensembling-techniques-in-machine-learning-d8b88135f2a3?source=rss-f1f1ffa1c989------2)
 - [The Naive Bayes Algorithm: How It Works and Why It Matters](https://medium.com/@akashgopalgs/the-naive-bayes-algorithm-how-it-works-and-why-it-matters-061c5ce3e9ad?source=rss-f1f1ffa1c989------2)
