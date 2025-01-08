@@ -20,10 +20,10 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Neural Style Transfer: The Art of AI](https://medium.com/@akashgopalgs/neural-style-transfer-the-art-of-ai-dbcf6624e0d1?source=rss-f1f1ffa1c989------2)
 - [Building Your First Neural Network: A Practical Guide](https://medium.com/@akashgopalgs/building-your-first-neural-network-a-practical-guide-ecf1a936bc47?source=rss-f1f1ffa1c989------2)
 - [Neural Networks: A Beginner’s Guide](https://medium.com/@akashgopalgs/artificial-neural-networks-a-beginners-guide-bb7dfebca0b5?source=rss-f1f1ffa1c989------2)
 - [The 2024 Nobel Prize in Physics: Pioneers of Artificial Neural Networks](https://medium.com/@akashgopalgs/the-2024-nobel-prize-in-physics-pioneers-of-artificial-neural-networks-b6ecbd013e78?source=rss-f1f1ffa1c989------2)
-- [Ensembling Techniques in Machine Learning](https://medium.com/@akashgopalgs/ensembling-techniques-in-machine-learning-d8b88135f2a3?source=rss-f1f1ffa1c989------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
