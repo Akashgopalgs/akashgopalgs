@@ -20,10 +20,10 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [End-to-End MLOps: Deployment and Challenges](https://medium.com/@akashgopalgs/end-to-end-mlops-deployment-and-challenges-1ff12a70789f?source=rss-f1f1ffa1c989------2)
 - [How DeepSeek is Revolutionizing AI-Powered Search and Data Analysis](https://medium.com/@akashgopalgs/how-deepseek-is-revolutionizing-ai-powered-search-and-data-analysis-5f876f66f8d7?source=rss-f1f1ffa1c989------2)
 - [Neural Style Transfer: The Art of AI](https://medium.com/@akashgopalgs/neural-style-transfer-the-art-of-ai-dbcf6624e0d1?source=rss-f1f1ffa1c989------2)
 - [Building Your First Neural Network: A Practical Guide](https://medium.com/@akashgopalgs/building-your-first-neural-network-a-practical-guide-ecf1a936bc47?source=rss-f1f1ffa1c989------2)
-- [Neural Networks: A Beginner’s Guide](https://medium.com/@akashgopalgs/artificial-neural-networks-a-beginners-guide-bb7dfebca0b5?source=rss-f1f1ffa1c989------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
