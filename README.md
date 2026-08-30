@@ -1,24 +1,89 @@
-<h1 align="center">Hi 👋, I'm AKASH GOPAL GS</h1>      
-<h3 align="center">Junior Data Scientist</h3>     
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgopalgs&label=Profile%20views&color=0e75b6&style=flat" alt="akashgopalgs" /> </p> 
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashgopalgs" alt="akashgopalgs" /></a> </p>
+# Akash Gopal GS
 
-<p align="left"> <a href="https://twitter.com/akash_kvr" target="blank"><img src="https://img.shields.io/twitter/follow/akash_kvr?logo=twitter&style=for-the-badge" alt="akash_kvr" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Data+Analyst+%7C+Analytics+Engineer;SQL+%2B+Python+%2B+Power+BI+%2B+ML;Turning+raw+data+into+business+decisions)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Data Science** 
+**Data Analyst with hands-on experience across four internships, turning raw operational data into KPI dashboards, pricing intelligence, and forecasting models.** Currently pursuing an MCA in Data Science & AI while working with SQL, Python, and Power BI to solve real business problems — from e-commerce pricing analysis to automated reporting.
 
-- 👨‍💻 All of my projects are available at [https://akashgopalgs.github.io](https://akashgopalgs.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-akashgopalgs.github.io-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akashgopalgs.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashgopalgs/)
+[![Medium](https://img.shields.io/badge/Medium-Read_Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akashgopalgs)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/akashgopalgs)
+[![Email](https://img.shields.io/badge/Email-akashgsknr%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashgsknr@gmail.com)
 
-- 📝 I regularly write articles on [https://medium.com/@akashgopalgs](https://medium.com/@akashgopalgs)
+</div>
 
-- 💬 Ask me about **I am a BSc Physics graduate and aspiring data scientist currently interning at Codeme Hub Int Pvt. I have strong analytical skills and am proficient in Python, machine learning, probability & statistics, Power BI, and Excel. My internship experience has honed my ability to work independently and as part of a team, demonstrating leadership and effective communication skills. I am eager to grow in data science.**
- 
-- 📫 How to reach me **akashgsknr@gmail.com**
+---
 
-- 📄 Know about my experiences [https://app.flowcv.com/resume/content](https://app.flowcv.com/resume/content)
+## About
 
-### Latest Blogs posts
+I analyze structured business data — e-commerce records, customer behavior logs, product catalogs — to find patterns that inform pricing, retention, and reporting decisions. Across my internships I've worked with **45,000+ records combined**, built automated KPI dashboards that **cut manual reporting effort by ~40%**, and supported forecasting and product-matching workflows using SQL, Python, and Power BI. I'm currently completing an MCA in Data Science & AI (IGNOU, 2024–2026).
+
+## Experience
+
+| Role | Organization | Period |
+|---|---|---|
+| Data Analyst (Trainee) | Orbio Solutions Pvt. Ltd. | Oct 2025 – Jan 2026 |
+| AI & ML Intern | Edunet Foundation & AICTE | Jun 2025 – Jul 2025 |
+| AI Intern | Internship Studio | Mar 2025 – Jun 2025 |
+| Data Science Intern | Codeme Hub International Pvt Ltd | May 2024 – Jan 2025 |
+
+*Full details, coursework, and certifications on my [portfolio →](https://akashgopalgs.github.io/#experience)*
+
+## Technical Toolkit
+
+**Analytics & BI**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Data Science & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-016099?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+
+**Engineering & Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Featured Projects
+
+### 🛍️ Customer Behavior Analysis
+Analyzed how customers interact with an e-commerce platform — cart abandonment, device usage, browsing time, and purchasing rate segmented by gender, age, and location — to surface patterns useful for retention and UX decisions.
+**Tools:** Python, Pandas, Seaborn, Plotly, Google Colab
+**Result:** Identified that ~50% of cart items are never purchased, and that mobile users convert at higher rates than other devices.
+🔗 [Repository](https://github.com/Akashgopalgs/Customer_behaviour_analysis) · [Notebook](https://colab.research.google.com/drive/1_ck_QRATjCjVbZPQ1km3oDmgSGIuCBwt?usp=sharing)
+
+### ⌚ Smartwatch Fitness Data Analysis
+Explored fitness tracker data across users to identify activity patterns and caloric-expenditure trends relevant to product/engagement strategy in the wearables space.
+**Tools:** Python, Pandas, Seaborn, Matplotlib
+**Result:** Found Tuesdays as the most active day and Sundays the least, based on calories burned and sedentary minutes.
+🔗 [Repository](https://github.com/Akashgopalgs/Smartwatch_data_analysis)
+
+### 📱 Screen Time Behavior Analysis
+Analyzed device usage logs to quantify which apps drive the most screen time, opens, and notifications — the kind of behavioral dataset used in product analytics and engagement reporting.
+**Tools:** Python, Seaborn, Plotly, Google Colab
+**Result:** WhatsApp dominated usage (2,671 minutes / 2,437 opens / 5,160 notifications in the dataset).
+🔗 [Repository](https://github.com/Akashgopalgs/Screen_time_data_analysis) · [Notebook](https://colab.research.google.com/drive/15uK-pkEONBPcjkBN8eE7aaf-TMLvHqXy?usp=sharing)
+
+**More data analysis and ML notebooks →** [github.com/Akashgopalgs](https://github.com/Akashgopalgs?tab=repositories)
+
+## GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgopalgs&layout=compact&hide_border=true&theme=default" alt="Top languages used by Akash Gopal GS" />
+</div>
+
+## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [End-to-End MLOps: Deployment and Challenges](https://medium.com/@akashgopalgs/end-to-end-mlops-deployment-and-challenges-1ff12a70789f?source=rss-f1f1ffa1c989------2)
 - [How DeepSeek is Revolutionizing AI-Powered Search and Data Analysis](https://medium.com/@akashgopalgs/how-deepseek-is-revolutionizing-ai-powered-search-and-data-analysis-5f876f66f8d7?source=rss-f1f1ffa1c989------2)
@@ -26,20 +91,12 @@
 - [Building Your First Neural Network: A Practical Guide](https://medium.com/@akashgopalgs/building-your-first-neural-network-a-practical-guide-ecf1a936bc47?source=rss-f1f1ffa1c989------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/akash_kvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akash_kvr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akashgopalgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashgopalgs" height="30" width="40" /></a>
-<a href="https://kaggle.com/akashgopalgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akashgopalgs" height="30" width="40" /></a>
-<a href="https://instagram.com/akash__7___kvr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash__7___kvr/" height="30" width="40" /></a>
-<a href="https://medium.com/@akashgopalgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akashgopalgs" height="30" width="40" /></a>
-</p>
+*This list updates automatically — see [Future Blog Workflow](#5-future-blog-workflow) below.*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashgopalgs&show_icons=true&locale=en&layout=compact" alt="akashgopalgs" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashgopalgs&show_icons=true&locale=en" alt="akashgopalgs" /></p>
+**📄 [Resume](https://drive.google.com/drive/folders/1mcr95tbNPP5I8VqpAJ3nI6D3n7lIW3bN?usp=sharing) · 🌐 [Explore my full portfolio →](https://akashgopalgs.github.io/) · ✉️ akashgsknr@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashgopalgs&" alt="akashgopalgs" /></p>
+</div>
