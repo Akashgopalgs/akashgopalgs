@@ -1,6 +1,6 @@
 <div align="center">
 
-# Akash Gopal GS
+# Akash Gopal GS 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Data+Analyst+%7C+Analytics+Engineer;SQL+%2B+Python+%2B+Power+BI+%2B+ML;Turning+raw+data+into+business+decisions)](https://git.io/typing-svg)
 
